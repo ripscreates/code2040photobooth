@@ -3,7 +3,8 @@ custom photobooth for use with raspberry pi
 - remixed from various raspi pb projects found on the net
 - hacked together under 24hrs for CODE2040 2017 Hackathon
 
-AIM: 
+**AIM:**
+
 1) Take still photos
 2) turn into GIF
 3) put overlay sticker on GIF (for branding)
@@ -20,16 +21,20 @@ it does reference another file in which the tumblr API authentication data is st
 You can refer to their documentation for params on hash tags and more.
 
 **What else do I need to make this work?**
+
 _hardware_
 - rasp pi or linux os compatible computer
 - rasp pi compatible camera
+
 _software_
 - python
 - pytumblr & and a tumblr acct for API
 - gifsicle
 - image editor to make your transparent overlay (or get creative)
 
+
 **Additional Credits:**
+
 https://github.com/tumblr/pytumblr
 https://github.com/kohler/gifsicle *ahh love it!*
 https://www.raspberrypi.org/documentation/usage/camera/
