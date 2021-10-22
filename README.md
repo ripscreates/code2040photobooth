@@ -44,7 +44,7 @@ https://epicjefferson.wordpress.com/2014/09/28/python-to-tumblr/
 https://github.com/drumminhands/drumminhands_photobooth
 http://johnjohnston.info/blog/sky-pi-posting-to-tumblr-from-a-raspberry-pi/
 
-posted GIFs to http://code2040photobooth.tumblr.com
+posted GIFs to https://www.tumblr.com/blog/view/code2040photobooth-blog
 
 contact me if you have any questions; 
 I'll update w more details over time; cheers!
